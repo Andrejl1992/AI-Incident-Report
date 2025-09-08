@@ -1,2 +1,2 @@
 # AI-Incident-Report
-This Program Will Allow For Body Worn Cameras To Process Images, Videos and Audio Captured and Export a Written Report Based On The Content Of The Video But Will Still Leave Room For Edits After Content Is Exported From The Device To The  Cloud.
+AI Incident Reporter is a prototype system for law enforcement body cameras. It processes audio, video, and images to create draft incident reports automatically. Reports are editable by officers after export to cloud storage.
